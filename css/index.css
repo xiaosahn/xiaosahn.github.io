@@ -1,119 +1,291 @@
+/* 欢迎使用guiPlan,以下代码均由guiPlan软件生成，如有疑问添加添加作者微信guiplan或加入学习交流qq群711964722  */
 .main {
     margin: 0px;
     padding: 0px;
 }
 
-.XiaZaicssStart {}
+.ZhuYecssStart {}
 
-.u1ac67 {
-    padding-top: 40px;
+.u4ec4b {
+    background-repeat: no-repeat;
+    background-position-y: 106%;
 }
 
-.u3e590 {
-    width: 100%;
+.ub90d4 {
+    display: none;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #ccc;
+}
+
+.ucf131 {
+    align-items: center;
+    padding-top: 0.5em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    padding-bottom: 0.5em;
+}
+
+.u17f74 {
+    width: 10.7em;
+}
+
+.u5bb91 {
+    align-items: center;
+}
+
+.u6fc5f {
+    color: #0098e8;
+    font-size: 1.6em;
+    margin-bottom: 5px;
     font-weight: bold;
-    position: absolute;
-    bottom: 0;
+}
+
+.u5a556 {
+    color: rgba(239, 109, 148, 1);
+    margin-top: -0.4em;
+}
+
+.ubf1d5 {
+    display: block;
+    justify-content: center;
+    align-items: flex-start;
+    width: 100%;
+    padding-left: 0em;
+    padding-right: 0em;
+    background-color: rgba(254, 254, 254, 1);
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-bottom-color: rgba(88, 132, 245, 1);
+    left: 0em;
+    z-index: 100;
+    position: fixed;
+    top: 0em;
+}
+
+.ub41f4 {
+    padding-top: 0em;
+    padding-left: 0em;
+    padding-right: 0em;
+    padding-bottom: 0.5em;
+}
+
+.ub3771 {
+    margin-top: 0.5em;
+    margin-left: 0.5em;
+}
+
+.uab3b3 {
+    margin-top: 0.5em;
+    margin-right: 0.5em;
+}
+
+.ue1285 {
+    padding-top: 1.4em;
+}
+
+.u29a54 {
+    display: block;
+    justify-content: center;
+}
+
+.ue8b75 {
     text-align: center;
 }
 
-.u6be51 {
-    color: rgba(244, 247, 245, 1);
-    font-weight: lighter;
+.u828b5 {
+    display: none;
 }
 
-.u5aedd {
-    display: inline;
-    color: rgba(21, 21, 21, 1);
-    box-shadow: 0px 0px 0px 0px #ccc;
+.menu_item_active {
+    background-color: #0098e8;
+    color: rgba(255, 255, 255, 1);
 }
 
-.XiaZaicssEnd {}
-
-.ZhiFucssStart {}
-
-.u53edf {
-    font-weight: normal;
-    color: rgba(255, 1, 1, 1);
+.nav-link {
+    color: rgba(18, 18, 18, 1) !important;
 }
 
-.ucifdbp {
-    display: inline-block;
-    width: 162px;
-    color: rgb(48, 49, 51);
-    text-align: start;
-    background-color: rgb(255, 255, 255);
-    margin-right: 10px;
-    border-top-left-radius: 5px;
-    border-bottom-left-radius: 5px;
-    border-top-right-radius: 5px;
-    border-bottom-right-radius: 5px;
-    overflow-x: hidden;
-    overflow-y: hidden;
-    box-shadow: 2px 2px 3px 0px rgba(26, 26, 26, 0.2);
+.ua75df {
+    margin-top: 3.7em;
 }
 
-.ucl4vm1 {
+.u48dd2 {
+    width: 100%;
+    min-height: 12em;
+}
+
+.u5737f {
+    z-index: -2 !important;
+}
+
+.u6227d {
+    z-index: -2 !important;
+}
+
+.u2753f {
+    left: 10%;
+}
+
+.u25f18 {
+    right: 10%;
+}
+
+.u70e61 {
+    align-items: center;
+    padding-left: 0.4em;
+    padding-right: 0.4em;
+}
+
+.u72021 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(252, 252, 252, 1);
+    z-index: 10;
+}
+
+.u8fb71 {
     display: flex;
     justify-content: center;
-    color: rgb(255, 255, 255);
-    text-align: start;
-    background-color: rgb(25, 207, 138);
-    position: relative;
-    background-image: url("https://s1.ax1x.com/2020/06/27/NyU04x.png");
-    padding-left: 15px;
-    padding-top: 20px;
-    padding-right: 15px;
-    padding-bottom: 20px;
-    left: 0px;
-    top: 0px;
-    right: 0px;
-    bottom: 0px;
-    z-index: 1;
+    align-items: center;
+    flex-direction: column;
 }
 
-.ucaavr6 {
-    display: block;
-    position: relative;
-    color: rgb(255, 255, 255);
-    text-align: start;
-    text-transform: capitalize;
-    margin-top: 10px;
-    left: 0px;
-    top: 0px;
-    right: 0px;
-    bottom: 0px;
+.ud9b2c {
+    font-size: 1.7em;
+    font-weight: bold;
 }
 
-.ucfo772 {
-    display: -webkit-box;
-    height: 60px;
-    color: rgb(48, 49, 51);
-    text-align: start;
-    padding-left: 7px;
-    padding-right: 7px;
-    word-break: break-all;
-    text-overflow: ellipsis;
-    overflow: hidden;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
+.u4de28 {
+    font-size: 1.3em;
+    font-weight: bold;
 }
 
-.uchwp1u {
-    display: block;
-    color: rgb(255, 255, 255);
-    text-align: center;
-    background-color: rgb(25, 207, 138);
-    background-color: rgb(25, 207, 138);
-    line-height: 30px;
-    margin-left: 16.5px;
-    margin-top: 4px;
-    margin-right: 16.5px;
-    margin-bottom: 4px;
-    border-top-left-radius: 5px;
-    border-bottom-left-radius: 5px;
-    border-top-right-radius: 5px;
-    border-bottom-right-radius: 5px;
+.ub77ab {
+    font-size: 1.2em;
 }
 
-.ZhiFucssEnd {}
+.u89338 {
+    display: flex;
+    justify-content: space-between;
+    width: 3.5em;
+}
+
+.circle {
+    width: 0.6em;
+    height: 0.6em;
+    border-top-left-radius: 0.5em;
+    border-bottom-left-radius: 0.5em;
+    border-top-right-radius: 0.5em;
+    border-bottom-right-radius: 0.5em;
+    background-color: rgba(244, 242, 242, 1);
+}
+
+.u2da7d {
+    background-color: #2a2d32;
+}
+
+.udd4b0 {
+    display: flex;
+    justify-content: center;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    padding-top: 1.5em;
+    padding-bottom: 0.5em;
+    flex-wrap: wrap;
+}
+
+.ucfe94 {
+    margin-bottom: 0.5em;
+    color: rgba(235, 232, 232, 1);
+    margin-right: 0.5em;
+}
+
+.uc6bf1 {
+    color: rgba(235, 232, 232, 1);
+    margin-right: 0.5em;
+}
+
+.ucfe94 {
+    color: rgba(235, 232, 232, 1);
+}
+
+.u6b475 {
+    display: flex;
+    justify-content: center;
+}
+
+.uae812 {
+    color: #53585f;
+    line-height: 24px;
+}
+
+.u1bd1e {
+    color: rgba(109, 213, 239, 1);
+}
+
+@media (min-width: 992px) {
+    .ub90d4 {
+        display: block;
+    }
+
+    .ucf131 {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .u5bb91 {
+        display: flex;
+    }
+
+    .uccd33 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .ubf1d5 {
+        position: static;
+    }
+
+    .ub41f4 {
+        padding-top: 0em;
+        padding-left: 0em;
+        padding-right: 0em;
+        padding-bottom: 0em;
+    }
+
+    .ub3771 {
+        display: none;
+    }
+
+    .ue1285 {
+        padding-top: 0em;
+    }
+
+    .ue8b75 {
+        padding-top: 1em;
+        padding-left: 2em !important;
+        padding-right: 2em !important;
+        padding-bottom: 1em;
+    }
+
+    .ua75df {
+        margin-top: 0em;
+    }
+
+    .ud9b2c {
+        font-size: 3em;
+    }
+}
+
+.u29a54:hover a {
+    background-color: #0098e8;
+    color: rgba(255, 255, 255, 1) !important;
+}
+
+.menu_item_active a {
+    color: rgba(255, 255, 255, 1) !important;
+}
+
+.ZhuYecssEnd {}

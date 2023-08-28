@@ -5,7 +5,7 @@ var App = {
     mounted() {
 
         // defaultLoad
-        // ZhiFuMountedStart
+        // ZhuYeMountedStart
         var wow = new WOW({
             boxClass: 'wow',
             animateClass: 'animated',
@@ -15,27 +15,59 @@ var App = {
         })
         wow.init()
         this.wow = wow
-        // ZhiFuMountedEnd
+        var mySwiper = new Swiper('.dfswiper', {
+            autoplay: true,
+            navigation: {
+                nextEl: '.dfnext',
+                prevEl: '.dfprev',
+            },
+        });
+
+        var teacherSwiper = new Swiper('.swiper_teacher', {
+
+            slidesPerView: 'auto',
+            navigation: {
+                nextEl: '.swiper-button-next-t',
+                prevEl: '.swiper-button-prev-t',
+            },
+        });
+        var mySwiper = new Swiper('.dfswiper', {
+            autoplay: true,
+            navigation: {
+                nextEl: '.dfnext',
+                prevEl: '.dfprev',
+            },
+        });
+
+        var teacherSwiper = new Swiper('.swiper_teacher', {
+
+            slidesPerView: 'auto',
+            navigation: {
+                nextEl: '.swiper-button-next-t',
+                prevEl: '.swiper-button-prev-t',
+            },
+        });
+        // ZhuYeMountedEnd
 
     },
     components: {},
     data() {
         return {
             // insertData
-            // ZhiFuDataStart
+            // ZhuYeDataStart
 
             // wow加载插件
             wow: ''
-            // ZhiFuDataEnd
+            // ZhuYeDataEnd
 
         }
     },
     methods: {
         default () {},
         // insertMethod
-        // ZhiFuMethodStart
+        // ZhuYeMethodStart
 
-        // ZhiFuMethodEnd
+        // ZhuYeMethodEnd
 
         // methodsCode
 
