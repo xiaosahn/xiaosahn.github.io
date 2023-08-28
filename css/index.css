@@ -1,520 +1,119 @@
-/* 欢迎使用guiPlan,以下代码均由guiPlan软件生成，如有疑问添加添加作者微信guiplan或加入学习交流qq群711964722  */
 .main {
     margin: 0px;
     padding: 0px;
 }
 
-.DingDancssStart {}
+.XiaZaicssStart {}
 
-.u294fd {
+.u1ac67 {
+    padding-top: 40px;
+}
+
+.u3e590 {
+    width: 100%;
     font-weight: bold;
-    color: rgba(247, 59, 21, 1);
+    position: absolute;
+    bottom: 0;
+    text-align: center;
 }
 
-.udbb60 {
-    color: rgba(19, 228, 64, 1);
+.u6be51 {
+    color: rgba(244, 247, 245, 1);
+    font-weight: lighter;
 }
 
-.ucc933 {
-    font-weight: bold;
+.u5aedd {
+    display: inline;
+    color: rgba(21, 21, 21, 1);
+    box-shadow: 0px 0px 0px 0px #ccc;
 }
 
-.u457b9 {
-    font-weight: bold;
-    color: rgba(55, 69, 222, 1);
+.XiaZaicssEnd {}
+
+.ZhiFucssStart {}
+
+.u53edf {
+    font-weight: normal;
+    color: rgba(255, 1, 1, 1);
 }
 
-.u41912 {
-    font-weight: bold;
+.ucifdbp {
+    display: inline-block;
+    width: 162px;
+    color: rgb(48, 49, 51);
+    text-align: start;
+    background-color: rgb(255, 255, 255);
+    margin-right: 10px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    box-shadow: 2px 2px 3px 0px rgba(26, 26, 26, 0.2);
 }
 
-.ucwwd8f {
+.ucl4vm1 {
+    display: flex;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+    text-align: start;
+    background-color: rgb(25, 207, 138);
+    position: relative;
+    background-image: url("https://s1.ax1x.com/2020/06/27/NyU04x.png");
+    padding-left: 15px;
+    padding-top: 20px;
+    padding-right: 15px;
+    padding-bottom: 20px;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    z-index: 1;
+}
+
+.ucaavr6 {
     display: block;
-    font-weight: bold;
-    color: rgba(190, 39, 228, 1);
-    list-style-type: none;
-    font-size: 16px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 10px;
-    padding-right: 10px;
-}
-
-.uc41pke {
-    display: table;
-    list-style-type: none;
-    font-size: 16px;
+    position: relative;
     color: rgb(255, 255, 255);
+    text-align: start;
+    text-transform: capitalize;
+    margin-top: 10px;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
 }
 
-.ucx5k4r {
-    display: table-row-group;
-    list-style-type: none;
-    font-size: 16px;
-    color: rgb(255, 255, 255);
+.ucfo772 {
+    display: -webkit-box;
+    height: 60px;
+    color: rgb(48, 49, 51);
+    text-align: start;
+    padding-left: 7px;
+    padding-right: 7px;
+    word-break: break-all;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
 }
 
-.ucigvlr {
-    display: table-row;
-    list-style-type: none;
-    font-size: 16px;
-    color: rgb(255, 255, 255);
-}
-
-.ucpvmed {
-    display: table-cell;
-    list-style-type: none;
-    font-weight: 700;
-    color: rgba(255, 255, 255, 0.8);
-    text-align: center;
-    padding-top: 6px;
-    padding-bottom: 6px;
-    border-bottom-style: solid;
-    border-bottom-color: rgb(64, 122, 189);
-    border-bottom-width: 1px;
-}
-
-.ucsocvc {
-    display: table-cell;
-    list-style-type: none;
-    font-weight: 700;
-    color: rgba(255, 255, 255, 0.8);
-    text-align: center;
-    padding-top: 6px;
-    padding-bottom: 6px;
-    border-bottom-style: solid;
-    border-bottom-color: rgb(64, 122, 189);
-    border-bottom-width: 1px;
-}
-
-.ucbkr2z {
-    display: table-cell;
-    list-style-type: none;
-    font-weight: 700;
-    color: rgba(255, 255, 255, 0.8);
-    text-align: center;
-    padding-top: 6px;
-    padding-bottom: 6px;
-    border-bottom-style: solid;
-    border-bottom-color: rgb(64, 122, 189);
-    border-bottom-width: 1px;
-}
-
-.ucuvsom {
-    display: table-cell;
-    list-style-type: none;
-    font-weight: 700;
-    color: rgba(255, 255, 255, 0.8);
-    text-align: center;
-    padding-top: 6px;
-    padding-bottom: 6px;
-    border-bottom-style: solid;
-    border-bottom-color: rgb(64, 122, 189);
-    border-bottom-width: 1px;
-}
-
-.ucds6da {
-    display: table-row;
-    font-size: 16px;
-    color: rgb(255, 255, 255);
-    list-style-type: none;
-}
-
-.uc7pmlw {
-    display: table-cell;
-    color: rgba(255, 255, 255, 0.6);
-    list-style-type: none;
-    font-size: 12px;
-    text-align: center;
-    padding-top: 6px;
-    padding-bottom: 6px;
-    border-bottom-style: dotted;
-    border-bottom-color: rgb(64, 122, 189);
-    border-bottom-width: 1px;
-}
-
-.ucgk4lt {
-    display: table-cell;
-    list-style-type: none;
-    font-size: 12px;
-    color: rgba(255, 255, 255, 0.6);
-    text-align: center;
-    padding-top: 6px;
-    padding-bottom: 6px;
-    border-bottom-style: dotted;
-    border-bottom-color: rgb(64, 122, 189);
-    border-bottom-width: 1px;
-}
-
-.ucb1jmb {
-    display: inline;
-    list-style-type: none;
-    font-size: 12px;
-    color: rgb(255, 228, 0);
-    text-align: center;
-}
-
-.uc6ckbn {
-    display: table-cell;
-    list-style-type: none;
-    font-size: 12px;
-    color: rgba(255, 255, 255, 0.6);
-    text-align: center;
-    padding-top: 6px;
-    padding-bottom: 6px;
-    border-bottom-style: dotted;
-    border-bottom-color: rgb(64, 122, 189);
-    border-bottom-width: 1px;
-}
-
-.uc2e44e {
-    display: inline;
-    list-style-type: none;
-    font-size: 12px;
-    color: rgb(7, 229, 255);
-    text-align: center;
-}
-
-.ucendnd {
-    display: table-cell;
-    list-style-type: none;
-    font-size: 12px;
-    color: rgba(255, 255, 255, 0.6);
-    text-align: center;
-    padding-top: 6px;
-    padding-bottom: 6px;
-    border-bottom-style: dotted;
-    border-bottom-color: rgb(64, 122, 189);
-    border-bottom-width: 1px;
-}
-
-.ucej1ih {
+.uchwp1u {
     display: block;
-    list-style-type: none;
-    font-size: 12px;
-    color: rgb(255, 99, 22);
-    text-align: center;
-}
-
-.uckt8gu {
-    display: table-row;
-    list-style-type: none;
-    font-size: 16px;
     color: rgb(255, 255, 255);
-}
-
-.uctjs2p {
-    display: table-cell;
-    list-style-type: none;
-    font-size: 12px;
-    color: rgba(255, 255, 255, 0.6);
     text-align: center;
-    padding-top: 6px;
-    padding-bottom: 6px;
-    border-bottom-style: dotted;
-    border-bottom-color: rgb(64, 122, 189);
-    border-bottom-width: 1px;
+    background-color: rgb(25, 207, 138);
+    background-color: rgb(25, 207, 138);
+    line-height: 30px;
+    margin-left: 16.5px;
+    margin-top: 4px;
+    margin-right: 16.5px;
+    margin-bottom: 4px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
 }
 
-.uctjjju {
-    display: table-cell;
-    list-style-type: none;
-    font-size: 12px;
-    color: rgba(255, 255, 255, 0.6);
-    text-align: center;
-    padding-top: 6px;
-    padding-bottom: 6px;
-    border-bottom-style: dotted;
-    border-bottom-color: rgb(64, 122, 189);
-    border-bottom-width: 1px;
-}
-
-.uceqico {
-    display: inline;
-    list-style-type: none;
-    font-size: 12px;
-    color: rgb(255, 228, 0);
-    text-align: center;
-}
-
-.uccwiar {
-    display: table-cell;
-    list-style-type: none;
-    font-size: 12px;
-    color: rgba(255, 255, 255, 0.6);
-    text-align: center;
-    padding-top: 6px;
-    padding-bottom: 6px;
-    border-bottom-style: dotted;
-    border-bottom-color: rgb(64, 122, 189);
-    border-bottom-width: 1px;
-}
-
-.ucgzsal {
-    display: inline;
-    list-style-type: none;
-    font-size: 12px;
-    color: rgb(7, 229, 255);
-    text-align: center;
-}
-
-.uc1xhrx {
-    display: table-cell;
-    list-style-type: none;
-    font-size: 12px;
-    color: rgba(255, 255, 255, 0.6);
-    text-align: center;
-    padding-top: 6px;
-    padding-bottom: 6px;
-    border-bottom-style: dotted;
-    border-bottom-color: rgb(64, 122, 189);
-    border-bottom-width: 1px;
-}
-
-.ucue5l3 {
-    display: block;
-    list-style-type: none;
-    font-size: 12px;
-    color: rgb(20, 225, 68);
-    text-align: center;
-}
-
-.uckz6ok {
-    display: table-row;
-    list-style-type: none;
-    font-size: 16px;
-    color: rgb(255, 255, 255);
-}
-
-.ucd3828 {
-    display: table-cell;
-    color: rgba(177, 34, 230, 0.6);
-    list-style-type: none;
-    font-size: 12px;
-    text-align: center;
-    padding-top: 6px;
-    padding-bottom: 6px;
-    border-bottom-style: dotted;
-    border-bottom-color: rgb(64, 122, 189);
-    border-bottom-width: 1px;
-}
-
-.uchbda1 {
-    display: table-cell;
-    list-style-type: none;
-    font-size: 12px;
-    color: rgba(255, 255, 255, 0.6);
-    text-align: center;
-    padding-top: 6px;
-    padding-bottom: 6px;
-    border-bottom-style: dotted;
-    border-bottom-color: rgb(64, 122, 189);
-    border-bottom-width: 1px;
-}
-
-.ucix8zb {
-    display: inline;
-    list-style-type: none;
-    font-size: 12px;
-    color: rgb(255, 228, 0);
-    text-align: center;
-}
-
-.uc4ffv1 {
-    display: table-cell;
-    list-style-type: none;
-    font-size: 12px;
-    color: rgba(255, 255, 255, 0.6);
-    text-align: center;
-    padding-top: 6px;
-    padding-bottom: 6px;
-    border-bottom-style: dotted;
-    border-bottom-color: rgb(64, 122, 189);
-    border-bottom-width: 1px;
-}
-
-.uco569o {
-    display: inline;
-    list-style-type: none;
-    font-size: 12px;
-    color: rgb(7, 229, 255);
-    text-align: center;
-}
-
-.uca1v2l {
-    display: table-cell;
-    list-style-type: none;
-    font-size: 12px;
-    color: rgba(255, 255, 255, 0.6);
-    text-align: center;
-    padding-top: 6px;
-    padding-bottom: 6px;
-    border-bottom-style: dotted;
-    border-bottom-color: rgb(64, 122, 189);
-    border-bottom-width: 1px;
-}
-
-.uco1vx4 {
-    display: block;
-    list-style-type: none;
-    font-size: 12px;
-    color: rgb(255, 99, 22);
-    text-align: center;
-}
-
-.ucmtqev {
-    display: table-row;
-    list-style-type: none;
-    font-size: 16px;
-    color: rgb(255, 255, 255);
-}
-
-.ucb2fck {
-    display: table-cell;
-    font-weight: bold;
-    color: rgba(193, 42, 248, 0.6);
-    list-style-type: none;
-    font-size: 12px;
-    text-align: center;
-    padding-top: 6px;
-    padding-bottom: 6px;
-    border-bottom-style: dotted;
-    border-bottom-color: rgb(64, 122, 189);
-    border-bottom-width: 1px;
-}
-
-.uc1xbwe {
-    display: table-cell;
-    list-style-type: none;
-    font-size: 12px;
-    color: rgba(255, 255, 255, 0.6);
-    text-align: center;
-    padding-top: 6px;
-    padding-bottom: 6px;
-    border-bottom-style: dotted;
-    border-bottom-color: rgb(64, 122, 189);
-    border-bottom-width: 1px;
-}
-
-.uclhndv {
-    display: inline;
-    list-style-type: none;
-    font-size: 12px;
-    color: rgb(255, 228, 0);
-    text-align: center;
-}
-
-.ucbsa66 {
-    display: table-cell;
-    list-style-type: none;
-    font-size: 12px;
-    color: rgba(255, 255, 255, 0.6);
-    text-align: center;
-    padding-top: 6px;
-    padding-bottom: 6px;
-    border-bottom-style: dotted;
-    border-bottom-color: rgb(64, 122, 189);
-    border-bottom-width: 1px;
-}
-
-.uclxubc {
-    display: inline;
-    list-style-type: none;
-    font-size: 12px;
-    color: rgb(7, 229, 255);
-    text-align: center;
-}
-
-.ucjbva6 {
-    display: table-cell;
-    list-style-type: none;
-    font-size: 12px;
-    color: rgba(255, 255, 255, 0.6);
-    text-align: center;
-    padding-top: 6px;
-    padding-bottom: 6px;
-    border-bottom-style: dotted;
-    border-bottom-color: rgb(64, 122, 189);
-    border-bottom-width: 1px;
-}
-
-.uckfacl {
-    display: block;
-    list-style-type: none;
-    font-size: 12px;
-    color: rgb(20, 225, 68);
-    text-align: center;
-}
-
-.ucaguzo {
-    display: table-row;
-    list-style-type: none;
-    font-size: 16px;
-    color: rgb(255, 255, 255);
-}
-
-.uc8exz3 {
-    display: table-cell;
-    list-style-type: none;
-    font-size: 12px;
-    color: rgba(255, 255, 255, 0.6);
-    text-align: center;
-    padding-top: 6px;
-    padding-bottom: 6px;
-}
-
-.ucduaut {
-    display: table-cell;
-    list-style-type: none;
-    font-size: 12px;
-    color: rgba(255, 255, 255, 0.6);
-    text-align: center;
-    padding-top: 6px;
-    padding-bottom: 6px;
-}
-
-.uc6v3ua {
-    display: inline;
-    list-style-type: none;
-    font-size: 12px;
-    color: rgb(255, 228, 0);
-    text-align: center;
-}
-
-.uc4594j {
-    display: table-cell;
-    list-style-type: none;
-    font-size: 12px;
-    color: rgba(255, 255, 255, 0.6);
-    text-align: center;
-    padding-top: 6px;
-    padding-bottom: 6px;
-}
-
-.ucrunfo {
-    display: inline;
-    list-style-type: none;
-    font-size: 12px;
-    color: rgb(7, 229, 255);
-    text-align: center;
-}
-
-.ucf2qbs {
-    display: table-cell;
-    list-style-type: none;
-    font-size: 12px;
-    color: rgba(255, 255, 255, 0.6);
-    text-align: center;
-    padding-top: 6px;
-    padding-bottom: 6px;
-}
-
-.uczahia {
-    display: block;
-    list-style-type: none;
-    font-size: 12px;
-    color: rgb(255, 99, 22);
-    text-align: center;
-}
-
-.DingDancssEnd {}
+.ZhiFucssEnd {}

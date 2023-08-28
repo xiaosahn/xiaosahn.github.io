@@ -5,7 +5,7 @@ var App = {
     mounted() {
 
         // defaultLoad
-        // ZhiFuMountedStart
+        // DingDanMountedStart
         var wow = new WOW({
             boxClass: 'wow',
             animateClass: 'animated',
@@ -15,27 +15,27 @@ var App = {
         })
         wow.init()
         this.wow = wow
-        // ZhiFuMountedEnd
+        // DingDanMountedEnd
 
     },
     components: {},
     data() {
         return {
             // insertData
-            // ZhiFuDataStart
+            // DingDanDataStart
 
             // wow加载插件
             wow: ''
-            // ZhiFuDataEnd
+            // DingDanDataEnd
 
         }
     },
     methods: {
         default () {},
         // insertMethod
-        // ZhiFuMethodStart
+        // DingDanMethodStart
 
-        // ZhiFuMethodEnd
+        // DingDanMethodEnd
 
         // methodsCode
 
