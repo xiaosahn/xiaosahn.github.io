@@ -5,7 +5,7 @@ var App = {
     mounted() {
 
         // defaultLoad
-        // ZhuYeMountedStart
+        // shoyeMountedStart
         var wow = new WOW({
             boxClass: 'wow',
             animateClass: 'animated',
@@ -15,7 +15,12 @@ var App = {
         })
         wow.init()
         this.wow = wow
-        var mySwiper = new Swiper('.dfswiper', {
+        this.initRadarChart()
+        this.setRadarChart()
+        this.initRadarChart()
+        this.setRadarChart()
+        this.initPieChart()
+        this.setPieChart() var mySwiper = new Swiper('.dfswiper', {
             autoplay: true,
             navigation: {
                 nextEl: '.dfnext',
@@ -47,27 +52,27 @@ var App = {
                 prevEl: '.swiper-button-prev-t',
             },
         });
-        // ZhuYeMountedEnd
+        // shoyeMountedEnd
 
     },
     components: {},
     data() {
         return {
             // insertData
-            // ZhuYeDataStart
+            // shoyeDataStart
 
             // wow加载插件
             wow: ''
-            // ZhuYeDataEnd
+            // shoyeDataEnd
 
         }
     },
     methods: {
         default () {},
         // insertMethod
-        // ZhuYeMethodStart
+        // shoyeMethodStart
 
-        // ZhuYeMethodEnd
+        // shoyeMethodEnd
 
         // methodsCode
 
