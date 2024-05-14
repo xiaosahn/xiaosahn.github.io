@@ -27,10 +27,16 @@
     padding: 0px;
     margin: 0px;
     padding: 0px;
+    margin: 0px;
+    padding: 0px;
+    margin: 0px;
+    padding: 0px;
+    margin: 0px;
+    padding: 0px;
 }
 
 .uosAGoM {
-    background-image: url("https://vip.123pan.cn/1821490170/maishan/xiaoshanevo/bz1.gif");
+    background-image: url("https://vip.123pan.cn/1821490170/maishan/xiaoshanevo/bzly.gif");
 }
 
 .urLR2Mm {
@@ -43,27 +49,20 @@
     cursor: pointer;
     border: 0;
     background-color: white;
-    box-shadow: rgb(0 0 0 / 5%) 0 0 8px;
+    box-shadow: rgba(0, 0, 0, 0.05);
     letter-spacing: 1.5px;
     text-transform: uppercase;
     font-size: 15px;
     transition: all 0.5s ease;
 }
 
-button:hover {
-    letter-spacing: 3px;
-    background-color: hsl(261deg 80% 48%);
-    color: hsl(0, 0%, 100%);
-    box-shadow: rgb(93 24 220) 0px 7px 29px 0px;
+.u6ba09 {
+    display: flex;
+    justify-content: space-around;
 }
 
-button:active {
-    letter-spacing: 3px;
-    background-color: hsl(261deg 80% 48%);
-    color: hsl(0, 0%, 100%);
-    box-shadow: rgb(93 24 220) 0px 0px 0px 0px;
-    transform: translateY(10px);
-    transition: 100ms;
+.up5VXOf {
+    align-items: center;
 }
 
 .uWMA2od {
